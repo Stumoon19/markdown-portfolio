@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*  Christmas
+*  Baseball
+*  Fall and Winter
+*  Motorcycles
+*  Cars
